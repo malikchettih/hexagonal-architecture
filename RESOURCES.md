@@ -15,3 +15,6 @@
 - Coder sans peur du changement, avec la "même pas mal !" architecture hexagonale (https://www.youtube.com/watch?v=wZ7cxcU4iPE)
 - Architecture hexagonale pour les nuls (Y. Chéné) https://www.youtube.com/watch?v=Hi5aDfRe-aE
 - L'architecture hexagonale en Java - Crafts@NOVENCIA (https://www.youtube.com/watch?v=mXe_h4cb9fM)
+
+## Source codes & implementations
+- https://github.com/tpierrain/hexagonalThis/tree/liveCodeWithAlistair
